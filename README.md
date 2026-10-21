@@ -1,4 +1,3 @@
-# walaso.github.io
 # Misgarot — Support
 
 A single-player card puzzle you can enjoy offline.
